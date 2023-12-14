@@ -4,7 +4,7 @@ Welcome to my portfolio repository! Here you will find information about my skil
 
 ## About me
 
-Software Engineering student. I love to coding, was a technical assistant for CRM systems, built funnel algorithms and did troubleshooting. I have experience in 2d and 3d, also was an author of student works on order, mostly coursework. At the moment I am actively developing in the IT sphere, from programming languages I know Python, but more and more I move to Go and leave the first one for scripts. I am in the process of getting Google IT Support Certification, also studying DevOps, trying my hand at layout out of interest.
+Software Engineering student. I love coding, was a technical assistant for CRM systems, built funnel algorithms and did troubleshooting. I have experience in 2d and 3d, also was an author of student works on order, mostly coursework. At the moment I am actively developing in the IT sphere, from programming languages I know Python, but more and more I move to Go and leave the first one for scripts. I am in the process of getting Google IT Support Certification, also studying DevOps, trying my hand at layout out of interest.
 
 <!-- ## Project categories
 
@@ -45,7 +45,6 @@ Software Engineering student. I love to coding, was a technical assistant for CR
   - Troubleshooting
   - Windows & Linux
   - Customer Support
-  - Algorithms and data structures
   - Microsoft Office
   - Documentation software
   - Trello
