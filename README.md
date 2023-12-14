@@ -64,9 +64,9 @@ Software Engineering student. I love to coding, was a technical assistant for CR
 - [Stepik](https://stepik.org/users/292738716/profile)
 - [Kaggle(Temporarily inactive)](https://www.kaggle.com/oneminepowminx)
 
-## Лицензия
+## License
 
-Этот проект лицензирован в соответствии с [Лицензией](ссылка на лицензию).
+This project is licensed under the [MIT License](https://github.com/1minEpowMinX/1minEpowMinX/blob/main/LICENSE).
 
 
 
