@@ -25,12 +25,12 @@ Software Engineering student. I love coding, was a technical assistant for CRM s
 
 ## Hard and soft skills
 
-- Programming languages:
+- **Programming languages**:
   - Go
   - Python
   - C++
   - HTML & CSS
-- Libs:
+- **Libs**:
   - Matplotlib (Python)
   - Seaborn (Python)
   - Scikit Learn (Python)
@@ -38,7 +38,7 @@ Software Engineering student. I love coding, was a technical assistant for CRM s
   - Selenium (Python)
   - Zap (Go)
   - Standart programming languages libs etc.
-- Other:
+- **Other**:
   - Git
   - Network architecture
   - Computer architecture
@@ -50,7 +50,7 @@ Software Engineering student. I love coding, was a technical assistant for CRM s
   - Trello
   - Miro
   - CRM algorithms
-- In the process of acquiring:
+- **In the process of acquiring**:
   - CI/CD
   - Docker
   - Kubernetes
