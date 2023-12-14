@@ -57,6 +57,7 @@ Software Engineering student. I love to coding, was a technical assistant for CR
   - Kubernetes
   - DevOps
   - Algorithms and data structures
+  - JavaScript(As needed)
 
 ## Resources
 
