@@ -60,6 +60,7 @@ Software Engineering student. I love to coding, was a technical assistant for CR
 
 ## Resources
 
+- [My certificates](https://drive.google.com/drive/folders/1dRkaWjAHm9nySfKVy2tW9alOoPzE5Y5b?usp=sharing)
 - [LinkedIn](https://www.linkedin.com/in/kirill-bitskyi-025672284/)
 - [Work email](nobusymaile@gmail.com)
 - [Stepik](https://stepik.org/users/292738716/profile)
