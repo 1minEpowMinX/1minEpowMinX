@@ -65,6 +65,7 @@ Software Engineering student. I love to coding, was a technical assistant for CR
 - [LinkedIn](https://www.linkedin.com/in/kirill-bitskyi-025672284/)
 - [Work email](nobusymaile@gmail.com)
 - [Stepik](https://stepik.org/users/292738716/profile)
+- [Coursera](https://www.coursera.org/user/83427ca96d65acb519e57ae4c5aa49d7)
 - [Kaggle(Temporarily inactive)](https://www.kaggle.com/oneminepowminx)
 
 ## License
