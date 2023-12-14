@@ -57,6 +57,7 @@ Software Engineering student. I love coding, was a technical assistant for CRM s
   - DevOps
   - Algorithms and data structures
   - JavaScript(As needed)
+  - Figma(As needed)
 
 ## Resources
 
