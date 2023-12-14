@@ -40,7 +40,7 @@ Software Engineering student. I love coding, was a technical assistant for CRM s
   - Standart programming languages libs etc.
 - Other:
   - Git
-  - Network architecture (TCP/OSI models)
+  - Network architecture
   - Computer architecture
   - Troubleshooting
   - Windows & Linux
