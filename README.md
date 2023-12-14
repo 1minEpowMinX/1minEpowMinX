@@ -50,6 +50,7 @@ Software Engineering student. I love to coding, was a technical assistant for CR
   - Documentation software
   - Trello
   - Miro
+  - CRM algorithms
 - In the process of acquiring:
   - CI/CD
   - Docker
