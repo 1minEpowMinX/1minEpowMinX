@@ -31,8 +31,7 @@ Software Engineering student. I love coding, was a technical assistant for CRM s
   - C++
   - HTML & CSS
 - **Libs**:
-  - Matplotlib (Python)
-  - Seaborn (Python)
+  - Matplotlib & Seaborn (Python)
   - Scikit Learn (Python)
   - Pandas & NumPy (Python)
   - Selenium (Python)
