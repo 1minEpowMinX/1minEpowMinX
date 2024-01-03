@@ -53,7 +53,7 @@ Software Engineering student. I love coding, was a technical assistant for CRM s
 - **In the process of acquiring**:
   - CI/CD
   - Docker
-  - Kubernetes
+  - Kubernetes & Helm
   - DevOps
   - Algorithms and data structures
   - JavaScript(As needed)
