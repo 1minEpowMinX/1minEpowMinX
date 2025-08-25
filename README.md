@@ -4,7 +4,7 @@ Welcome to my portfolio repository! Here you will find information about my skil
 
 ## About me
 
-Software Dev student. I love to create - I program, was a technical assistant for CRM systems, built funnel algorithms and did trabshooting. I have experience in 2d and 3d, I was also an author of custom student works, mostly coursework. At the moment I am actively developing in IT, but still looking for the same. From programming languages I know Python, Go and some C++. I also got a professional certification in Google IT Support specialization, and also took a practical intensive on DevOps.
+Software Dev student and System Engineer. I love to create - I program, was a technical assistant for CRM systems, built funnel algorithms and did troubleshooting. I have experience in 2d and 3d, I was also an author of custom student works, mostly coursework. At the moment I am actively developing in IT, but still looking for the same. From programming languages I know Python, Go and some C++. I also got a professional certification in Google IT Support specialization, and also took a practical intensive on DevOps.
 
 <!-- ## Project categories
 
