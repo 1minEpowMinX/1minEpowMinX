@@ -54,10 +54,6 @@ Software Dev student and System Engineer. I love to create - I program, was a te
   - Docker
   - Kubernetes & Helm
   - DevOps
-- **In the process of acquiring**:
-  - Algorithms and data structures
-  - JavaScript(As needed)
-  - Figma(As needed)
 
 ## Resources
 
